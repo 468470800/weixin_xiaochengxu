@@ -1,0 +1,1 @@
+<view><my-form vue-id="06582187-1" bind:__l="__l" vue-slots="{{['default']}}"><view><input type="text"/></view></my-form></view>

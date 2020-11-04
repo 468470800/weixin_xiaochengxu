@@ -1,0 +1,1 @@
+<view><view>{{'子组件向父组件传递过来的路径'+src+''}}</view><img-border vue-id="02b307b0-1" src="{{src1}}" data-event-opts="{{[['^srcChange',[['handeSrcChange']]]]}}" bind:srcChange="__e" bind:__l="__l"></img-border><img-border vue-id="02b307b0-2" src="{{src2}}" data-event-opts="{{[['^srcChange',[['handeSrcChange']]]]}}" bind:srcChange="__e" bind:__l="__l"></img-border></view>

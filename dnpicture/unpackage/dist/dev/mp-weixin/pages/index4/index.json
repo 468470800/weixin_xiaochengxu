@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "子向父传递",
+  "usingComponents": {
+    "img-border": "/components/img-border"
+  }
+}
