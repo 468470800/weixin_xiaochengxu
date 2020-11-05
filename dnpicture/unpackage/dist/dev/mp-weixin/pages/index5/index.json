@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "插槽",
-  "usingComponents": {
-    "my-form": "/components/my-form"
-  }
-}

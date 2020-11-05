@@ -1,1 +1,0 @@
-<view class="content"><view data-index="11" data-event-opts="{{[['tap',[['handleCllick',[1,'$event']]]]]}}" bindtap="__e">惦记我 1</view><view data-index="22" data-event-opts="{{[['tap',[['handleCllick',[2,'$event']]]]]}}" bindtap="__e">惦记我 2</view></view>

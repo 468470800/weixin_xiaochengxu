@@ -1,8 +1,0 @@
-
-.mg-border{
-		width: 300rpx;
-		height: 300rpx;
-		-webkit-border-radius: 20%;
-		        border-radius: 20%;
-}
-

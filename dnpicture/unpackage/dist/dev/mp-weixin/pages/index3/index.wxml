@@ -1,1 +1,0 @@
-<view class="content"><img-border vue-id="1216526e-1" src="{{src1}}" data-event-opts="{{[['^srcChange',[['handeSrcChange']]]]}}" bind:srcChange="__e" bind:__l="__l"></img-border><img-border vue-id="1216526e-2" src="{{src2}}" data-event-opts="{{[['^srcChange',[['handeSrcChange']]]]}}" bind:srcChange="__e" bind:__l="__l"></img-border></view>
